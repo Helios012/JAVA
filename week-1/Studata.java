@@ -1,5 +1,5 @@
 //illustrate class and obj
-class Student{
+class student{
     int rollno;
     String name;
     void insert(int r,String n){
@@ -21,5 +21,5 @@ public class Studata {
         s2.display();
     }
 }
-//javac Student.java
-//java Student
+//javac Studata.java
+//java Studata

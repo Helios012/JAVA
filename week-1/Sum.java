@@ -1,6 +1,9 @@
 //command line argument
 public class Sum {
+    int a,b;
     public  void Sum1(int a,int b){
+        this.a=a;
+        this.b=b;
         int tot=a+b;
         int avg=tot/2;
         System.out.println("Sum:"+tot);

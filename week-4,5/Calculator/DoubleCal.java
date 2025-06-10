@@ -13,4 +13,4 @@ public  class DoubleCal{
         return a/b;
     }
 }
-//javac DoubleCal.java
+//javac Calculator/DoubleCal.java
